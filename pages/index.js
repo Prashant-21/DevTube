@@ -14,7 +14,7 @@ export default function Home() {
 			<Layout>
 				<Welcome />
 
-				<Course />
+				{/* <Course /> */}
 			</Layout>
 		</>
 	)

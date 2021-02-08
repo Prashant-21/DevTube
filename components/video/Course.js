@@ -15,3 +15,7 @@ const Course = () => {
 }
 
 export default Course
+
+// TODO
+// State Playlist id, thumbnail, channel, description, upload date
+// Pass down the respective playlist's videos data as props
